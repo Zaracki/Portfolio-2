@@ -3,21 +3,21 @@ import Card from "./Card";
 const CardContainer = () => {
   const cardsData = [
     {
-      image: "./assets/readme-image.png",
+      image: "../assets/readme-image.png",
       title: "Holidaze",
       description: "Info",
       link1: { url: "https://github.com/Zaracki/Exam-Holidaze", text: "GitHub" },
       link2: { url: "https://heartfelt-chaja-95c0e2.netlify.app", text: "Website" },
     },
     {
-      image: "./assets/Shopdrop.png",
+      image: "../assets/Shopdrop.png",
       title: "Shopdrop",
       description: "Info",
       link1: { url: "https://github.com/Zaracki/react-ecom", text: "GitHub" },
       link2: { url: "https://shopdroper.netlify.app", text: "Website" },
     },
     {
-      image: "./assets/Swiftbid.png",
+      image: "../assets/Swiftbid.png",
       title: "Swiftbid",
       description: "info",
       link1: { url: "https://github.com/Zaracki/Semester-Project-2", text: "GitHub" },
