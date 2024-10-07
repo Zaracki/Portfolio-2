@@ -10,7 +10,7 @@ const ProfileCard = () => {
       </p>
       <div className="flex justify-center space-x-4">
         <a
-          href="https://github.com"
+          href="https://github.com/Zaracki"
           className="flex items-center text-blue-500 hover:underline transition-colors"
         >
           <FaGithub className="mr-2" /> GitHub
