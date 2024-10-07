@@ -1,26 +1,23 @@
 import Card from "./Card";
-import HolidazeImage from "../assets/readme-image.png";
-import ShopdropImage from "../assets/Shopdrop.png";
-import SwiftbidImage from "../assets/Swiftbid.png";
 
 const CardContainer = () => {
   const cardsData = [
     {
-      image: HolidazeImage,
+      image: "/assets/readme-image.png",
       title: "Holidaze",
       description: "Info",
       link1: { url: "https://github.com/Zaracki/Exam-Holidaze", text: "GitHub" },
       link2: { url: "https://heartfelt-chaja-95c0e2.netlify.app", text: "Website" },
     },
     {
-      image: ShopdropImage,
+      image: "/assets/shopdrop.png",
       title: "Shopdrop",
       description: "Info",
       link1: { url: "https://github.com/Zaracki/react-ecom", text: "GitHub" },
       link2: { url: "https://shopdroper.netlify.app", text: "Website" },
     },
     {
-      image: SwiftbidImage,
+      image: "/assets/Swiftbid.png",
       title: "Swiftbid",
       description: "info",
       link1: { url: "https://github.com/Zaracki/Semester-Project-2", text: "GitHub" },
