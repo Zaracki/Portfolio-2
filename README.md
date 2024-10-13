@@ -6,24 +6,19 @@ This is my delivery on Front-end Frameworks where you can add to cart and make a
 
 ## Assignement
 
-Build out the following pages for an eCom store:
-
-- Homepage
-- Individual product page
-- Cart page
-- Checkout success page
-- Contact page
-  The Homepage should have a list of all the products. There should be a look-ahead search bar that filters products when typing in a product name. Clicking on a product should take a user to an individual product page.
+Document three prior submissions from the first year:
+Semester Project 2
+JavaScript Frameworks CA
+Project Exam 2
 
 ### Points
 
-- Use a <Layout> component with a header (nav bar + Cart icon showing item count) and footer.
-- The product page shows product details (title, description, image) with an "Add to Cart" button, reviews (if any), and displays the discountedPrice with a calculated discount if applicable.
-- Clicking the Cart icon loads the Cart page with a list of products, total price, and a "Checkout" button.
-- The Checkout success page confirms the order, provides a link to return to the store, and clears the cart.
-- The contact page includes a form (Full Name, Subject, Email, Body) with validation for each field (min 3 characters, valid email).
-- Use React Router for navigation; design should be responsive with CSS Modules or styled-components (framework optional).
-- Ensure clean, well-formatted code.
+List the 3 projects as cards and each card must have:
+
+- the title of the project,
+- a description,
+- a screenshot of how the project looks when running,
+- a link to the GitHub repo and a live site if it is online.
 
 ## Built With
 
