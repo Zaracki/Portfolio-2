@@ -1,6 +1,6 @@
 # Portfolio 2
 
-![image](src/images/portfolio-img.png)
+![image](public/assets/portfolio-img.png)
 
 This is my delivery on Front-end Frameworks where you can add to cart and make a purchase.
 
