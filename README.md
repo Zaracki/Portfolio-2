@@ -1,4 +1,4 @@
-# Shopdrop - Semester project 2
+# Portfolio 2
 
 ![image](src/images/portfolio-img.png)
 
