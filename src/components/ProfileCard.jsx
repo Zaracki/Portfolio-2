@@ -5,8 +5,7 @@ const ProfileCard = () => {
     <div className="mt-10 bg-white rounded-xl shadow-lg p-8 max-w-md transform hover:scale-105 transition-transform duration-300">
       <h1 className="text-2xl font-bold text-gray-800 text-left">Alexander Weidemann</h1>
       <p className="text-gray-600 mb-4 text-left">
-        Noroff Front-end student &<br />
-        Developer at Academic Work
+        Noroff Front-end student
       </p>
       <p className="text-gray-500 mb-6 text-left">
         I have over eight years experience in sales and services with a certificate of apprenticeship.

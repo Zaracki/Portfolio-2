@@ -3,7 +3,7 @@ import Card from "./Card";
 const CardContainer = () => {
   const cardsData = [
     {
-      image: "/assets/readme-image.png",
+      image: "/assets/holidaze.png",
       title: "Holidaze",
       description: "A venue site where you can book or host a venue for people to rent, edit and delete venues. This project was created with React, Vite and Tailwind.",
       alt: "Screenshot of Holidaze project homepage",
